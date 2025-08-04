@@ -77,12 +77,12 @@
 }
 
 /*
-   Author profile and links
+  Author profile and links
    ========================================================================== */
 
 .author__avatar {
   display: block;
-  vertical-align: top;
+  // vertical-align: top;
   width: 100%;
   // set width only, for non-square avatars
   // height: 36px;
@@ -106,7 +106,7 @@
 
 .author__content {
   display: block;
-  vertical-align: top;
+  // vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
@@ -137,6 +137,8 @@
   display: none;
   @media screen and (min-width: 1024px) {
     display: block;
+    white-space: normal;  // ه المهم عشان يكسر السطر
+    word-wrap: break-word;
   }
 }
 
