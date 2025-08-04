@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. researcher in [Computer Science at Virginia Commonwealth University (VCU)](https://egr.vcu.edu/departments/computer/), conducting research at the [**VCU MuSIC Lab**](https://music.lab.vcu.edu/). My academic journey includes an **M.Sc. in Informatics** from [Nile University](https://nu.edu.eg/) (GPA: 3.96/4) and a **B.Sc. in Computer Science** from [Ahram Canadian University](https://www.acu.edu.eg/) (GPA: 3.9/4, ranked top of my class).
+I am a Ph.D. researcher at [Computer Science at Virginia Commonwealth University (VCU)](https://egr.vcu.edu/departments/computer/), conducting research at the [**VCU MuSIC Lab**](https://music.lab.vcu.edu/). My academic journey includes an **M.Sc. in Informatics** from [Nile University](https://nu.edu.eg/) (GPA: 3.96/4) and a **B.Sc. in Computer Science** from [Ahram Canadian University](https://www.acu.edu.eg/) (GPA: 3.9/4, ranked top of my class).
 
 
 Please do not hesitate to reach out to me via [LinkedIn](https://www.linkedin.com/in/mohamed-kamel-597684182/)  
-or reach out via email at: **kamelms [at] vcu [dot] edu**
-
+or reach out via email at: [kamelms@vcu.edu](mailto:kamelms@vcu.edu)
+<!-- or reach out via email at: **kamelms [at] vcu [dot] edu** -->
 
 [\[Curriculum vitae\]](files/Mohamed-Kamel-CV.pdf)
 
@@ -33,8 +33,8 @@ News
 - **Dec 2022:** Published *SkinFormer: Robust Vision Transformer for Automatic Skin Disease Identification* in JAC-ECC 2022 ([IEEE Link](https://ieeexplore.ieee.org/abstract/document/10044005))
 
 
-Selected Publications
-======
+<!-- Selected Publications
+====== -->
 
 <!-- - [**GIF: Generative Inspiration for Face Recognition at Scale**](https://arxiv.org/pdf/2505.03012),
 Mohammad Saeed Ebrahimi Saadabadi, Sahar Rahimi Malakshan, Ali Dabouei, Srinjoy Das, Jeremy M. Dawson, Nasser M. Nasrabadi,
