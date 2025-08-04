@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_inc]ludes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "assets/images/profile.jpg"
   name             : "Mohamed Kamel"
   pronouns         : # example: "he/him"  
-  bio              : "Ph.D. student in Computer Science at VCU. ML researcher with strong experience in backend/full-stack development, AI, and LLMs. Worked with Bank of America and contributed to impactful AI projects."
+  bio              : "Ph.D. student at VCU"
   location         : "USA"
   employer         : "Virginia Commonwealth University"
   uri              : # URL
